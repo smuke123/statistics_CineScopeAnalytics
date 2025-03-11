@@ -1,5 +1,5 @@
 
-# 🎬 MovieLens Insights
+# 🎬 CineScope Analytics
 
 Este repositorio contiene la presentación, informes y código utilizado para el análisis de datos de películas.
 
