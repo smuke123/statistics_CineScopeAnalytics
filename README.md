@@ -36,15 +36,14 @@ Accede a la carpeta del proyecto:
   cd statistics_CineScopeAnalytics
 ```
 
-Abre el archivo .ipynb en Google Colab o Jupyter Notebook.
+Abre el archivo .ipynb en Jupyter Notebook.
 
 
 ## 👥 Autores
 
-- [smuke123](https://github.com/smuke123)
+- [smuke123](https://github.com/smuke123).
 - [JeiGeek](https://github.com/JeiGeek).
--
-
+- [CesarAlejandroSoto](https://github.com/CesarAlejandroSoto).
 
 ## 📩 Cómo contribuir
 
